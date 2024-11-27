@@ -4,7 +4,7 @@
   },
 
   "scripts":{
-    "cy:run": "cypress run -b Chrome"
+    "cy:run": "cypress run"
   }
   
 }
